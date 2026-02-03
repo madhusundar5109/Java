@@ -1,0 +1,91 @@
+🟢 Section A: Basics & Input/Output
+
+Hello Java Program -- HelloWorld.java
+Write a program to print your name, age, and favorite hobby on separate lines.
+
+Personal Details Input -- DetailsInput.java
+Take input from the user: name, age, and city — then display them in a single formatted line.
+
+Add Two Numbers -- sum.java
+Take two numbers as input and print their sum.
+
+Simple Arithmetic Operations -- Arithmetic.java
+Take two integers as input and display the results of addition, subtraction, multiplication, and division.
+
+Square and Cube Finder -- SquareCube.java
+Input a number and print its square and cube.
+
+Swap Two Numbers -- swap.java
+Take two variables and swap their values without using a third variable.
+
+🟠 Section B: Conditional Statements (if, else, switch)
+
+Even or Odd Checker -- EvenOdd.java
+Input a number and print whether it’s even or odd.
+
+Positive, Negative, or Zero -- DefineInt.java
+Input an integer and determine if it is positive, negative, or zero.
+
+Largest of Two Numbers -- larger.java
+Input two numbers and print which one is larger.
+
+Largest of Three Numbers -- largest.java
+Input three numbers and print the largest among them.
+
+Grade Calculator -- GradeCalculator
+Input a student’s marks (0–100) and display the grade as per these rules:
+
+>=90 → A  
+80–89 → B  
+70–79 → C  
+60–69 → D  
+<60  → F
+
+
+Simple Calculator using Switch Case -- Calculator
+Input two numbers and an operator (+, -, *, /, %) — perform the chosen operation.
+
+🔵 Section C: Loops (for, while, do-while)
+
+Sum of Natural Numbers -- NaturalNumber*.java
+Input n → print the sum of numbers from 1 to n.
+Example: n=5 → Output: 15
+
+Multiplication Table 
+Input a number → print its multiplication table up to 10.
+
+Factorial of a Number
+Input a number → find its factorial using a loop.
+Example: 5! = 120
+
+Count Digits of a Number
+Input 12345 → Output: 5 digits.
+
+Reverse a Number
+Input 1234 → Output: 4321.
+
+Sum of Digits
+Input 5432 → Output: 14.
+
+🟣 Section D: Patterns & Logic Building
+
+Star Pattern - Right Triangle
+Input: n = 5
+Output:
+
+*
+**
+***
+****
+*****
+
+
+Number Pattern
+Input: n = 5
+Output:
+
+1
+12
+123
+1234
+12345
